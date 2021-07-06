@@ -1,0 +1,70 @@
+/* * body{
+    margin: 0;
+    padding: 0;
+}
+
+    .mySpace{
+    width: 70%;
+    height: 600px;
+    background: cornflowerblue;
+    float: inline-end;
+}
+#par{
+    font-size: 40px;
+}.container{
+    padding: 20px;
+    display:flex
+}
+#space{
+    padding: 2px;
+    display: flex;
+    width: 50%;
+    height: 60vh;
+}
+#space img{
+    width: 500px;
+    height: 600px;
+    border-radius:23px ;
+    transition:1.5s
+
+}
+p{
+    color: darkblue;
+    text-align: center;
+    transition:opacity 1.4s
+} */
+
+
+
+
+
+/*for the paint app change the code bellow*/
+
+* body{
+    margin: 0;
+    padding: 0;
+}
+.canvas{
+    border-color: black;
+    border: solid;
+   
+    width: 70%;
+    height: 70%;
+}
+.tools.buttons{
+    align-self: center;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    margin: 0 2px;
+
+}
+/*.tools.colorfield{
+ height: 45px;
+ width: 45px;
+ cursor: pointer;
+
+}*/
+    
+
+
